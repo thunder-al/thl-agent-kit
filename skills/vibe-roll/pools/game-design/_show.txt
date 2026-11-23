@@ -1,0 +1,2 @@
+# about: a game-show round
+segment: {show-segment}; verb: {puzzle-verb}; teams: {team-split}; twist: {pressure}; reward: {reward}

@@ -1,0 +1,194 @@
+# about: plants, trees, fungi and seaweeds
+acorn
+alder
+aloe
+angelica
+aspen
+azalea
+bamboo grove
+banana plant
+banyan
+baobab
+beech
+belladonna
+bilberry
+bindweed
+birch
+bird of paradise flower
+blackthorn
+bladderwrack
+bluebell
+bonsai
+bougainvillea
+bracken
+bracket fungus
+breadfruit tree
+bristlecone pine
+buckeye
+bulrush
+burdock
+cacao tree
+cactus
+camellia
+catnip
+cattail
+cedar
+chamomile
+chanterelle
+chrysanthemum
+clematis
+clubmoss
+coconut palm
+comfrey
+cordyceps
+cork oak
+cornflower
+corpse flower
+cotton plant
+cowslip
+crocus
+cyclamen
+cypress
+daisy
+dandelion clock
+daphne
+date palm
+death cap
+dock leaf
+dragon's blood tree
+duckweed
+ebony tree
+edelweiss
+elder
+eucalyptus
+fern
+feverfew
+fig tree
+fir
+fly agaric
+forget-me-not
+foxglove
+frangipani
+frankincense tree
+gardenia
+ginkgo
+ginseng
+gorse
+hawthorn
+hazel
+heather
+hemlock
+henbane
+hibiscus
+hickory
+hollyhock
+honeysuckle
+hops
+horsetail
+ink cap
+iris
+ivy
+jasmine
+joshua tree
+juniper
+kelp
+knotweed
+kudzu
+larch
+laurel
+lavender
+lichen
+linden
+liverwort
+lotus
+lovage
+lupin
+madder
+magnolia
+mahogany
+mandrake
+mangrove
+maple
+marigold
+marram grass
+meadowsweet
+mistletoe
+monkey puzzle tree
+morel
+morning glory
+moss
+mugwort
+mulberry tree
+oak
+olive tree
+orchid
+pampas grass
+papyrus
+passionflower
+peony
+pine
+pine cone
+pitcher plant
+poison ivy
+poplar
+poppy
+primrose
+puffball
+quince tree
+rafflesia
+ragwort
+redwood
+reed
+resurrection plant
+rosemary
+rosewood
+rowan
+rue
+rye
+saffron crocus
+sage
+saguaro
+sandalwood
+sea lettuce
+sedge
+sensitive plant
+sequoia
+slime mold
+snapdragon
+snowdrop
+spanish moss
+sphagnum moss
+spruce
+stinging nettle
+stinkhorn
+strangler fig
+sugarcane
+sundew
+sunflower
+sycamore
+tansy
+tea bush
+teasel
+thistle
+thyme
+tobacco plant
+tulip
+tumbleweed
+valerian
+vanilla orchid
+venus flytrap
+violet
+wasabi
+water hyacinth
+water lily
+watercress
+weeping willow
+welwitschia
+wheat
+wild garlic
+wisteria
+woad
+wolfsbane
+wormwood
+yarrow
+yew

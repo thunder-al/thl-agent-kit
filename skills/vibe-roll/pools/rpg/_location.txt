@@ -1,0 +1,3 @@
+# about: place to explore
+site: {core:site}; in: {core:place}; sense: {core:_sense}; complication: {complication}
+place: {core:place}; when: {occasion}; sense: {core:_sense}; complication: {complication}

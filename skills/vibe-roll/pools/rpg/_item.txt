@@ -1,0 +1,3 @@
+# about: magic or odd item
+object: {core:object}; made of: {core:material}; power: {item-power}; quirk: {item-quirk}
+object: {core:object}; made of: {material}; power: {item-power}; quirk: {item-quirk}

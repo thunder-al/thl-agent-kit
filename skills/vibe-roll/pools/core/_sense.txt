@@ -1,0 +1,6 @@
+# about: union of sensory pools
+{core:color}
+{core:light}
+{core:texture}
+{core:sound}
+{core:smell}

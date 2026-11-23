@@ -1,0 +1,2 @@
+# about: single encounter
+creature: {creature}; place: {core:place}; when: {occasion}; complication: {complication}

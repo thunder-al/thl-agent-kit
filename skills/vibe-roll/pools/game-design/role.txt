@@ -1,0 +1,31 @@
+# about: a special role or condition given to one player
+lantern bearer: sees the true doors but cannot speak
+key carrier: cannot jump or run
+the marked: draws every enemy's attention
+the bound: chained to another player
+the blind: sees nothing but hears everything
+the mute: can only use gestures
+the timekeeper: alone can see the timer
+the cartographer: alone can see the map
+the conductor: sets the rhythm everyone must follow
+the anchor: if they move, the floor drops
+the decoy: looks like the boss to enemies
+the healer who cannot heal themselves
+the ghost: can pass walls but cannot touch objects
+the bomb: explodes if they stand still too long
+the judge: decides who gets the reward
+the traitor: secretly works for the other side
+the scribe: must write down every clue
+the mirror: copies another player's moves
+the battery: powers the machine by standing on it
+the lightning rod: absorbs one hazard per round
+the translator: alone can read the symbols
+the runner: the only one who can leave the room
+the shield: blocks damage for others but not themselves
+the gambler: rolls a die every round for a random effect
+the cursed: grows stronger and slower
+the hostage: cannot act until rescued
+the host's favorite: gets bonus points and enemies
+the clockwinder: must keep a machine wound
+the singer: must sing to keep the bridge up
+the counter: must count out loud without stopping

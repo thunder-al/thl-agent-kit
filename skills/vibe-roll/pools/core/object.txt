@@ -1,0 +1,348 @@
+# about: portable things, timeless or pre-industrial
+abacus
+almanac
+anchor
+anvil
+astrolabe
+automaton
+axe
+bag of marbles
+bagpipes
+ball and chain
+banknote
+banner
+barometer
+barrel
+basket
+baton
+bear trap
+bed warmer
+bedroll
+bell
+bell jar
+bellows
+belt
+belt buckle
+birdcage
+birthday candle
+blanket
+blowpipe
+bone dice
+bone flute
+boomerang
+boot
+boot jack
+bottle
+bouquet
+bowl
+bracelet
+branding iron
+brass scales
+bridle
+bucket
+bugle
+butter churn
+butterfly net
+cage
+calipers
+caltrops
+cameo brooch
+candelabra
+candle
+candle snuffer
+cane
+canoe
+canteen
+carpet
+carpetbag
+cart
+castanets
+cauldron
+censer
+chair
+chalice
+chandelier
+chess set
+cigar
+cleaver
+cloak
+clock
+clockwork key
+clothes brush
+clothes peg
+coffin
+coffin nail
+coin purse
+colander
+collar
+collection plate
+comb
+compass
+conch shell
+cookie cutter
+corkscrew
+corsage
+cowbell
+cradle
+crossbow
+crowbar
+crown
+crutch
+curtain
+dagger
+darning egg
+death mask
+decanter
+demijohn
+diary
+dice
+dinner bell
+doctor's bag
+dog collar
+dog whistle
+doll
+dominoes
+drinking horn
+drum
+duck call
+ear trumpet
+egg timer
+envelope
+false teeth
+fishing hook
+fishing net
+fishing rod
+flag
+flail
+flat iron
+flowerpot
+flute
+folding fan
+fork
+four-leaf clover in resin
+garland
+gauntlet
+gavel
+glass eye
+glass harmonica
+globe
+glove
+goblet
+gold coin
+gong
+gown
+grave marker
+gravy boat
+guitar
+hairbrush
+hairpin
+hammer
+hammock
+hand mirror
+handcart
+harness
+harp
+harpoon
+hat
+hatbox
+helmet
+hip flask
+hoe
+horn of powder
+horseshoe
+horseshoe nail
+hourglass
+hunting horn
+hurdy-gurdy
+ice skates
+idol
+inkwell
+iron key
+jack-in-the-box
+jar
+jigsaw puzzle
+jump rope
+kaleidoscope
+keg
+kettle
+key
+key ring
+kite
+knife
+ladder
+ladle
+lamp
+lance
+lantern
+leash
+ledger
+letter opener
+lobster pot
+locket
+longbow
+love letter
+lute
+mace
+magic lantern
+magnet
+magnifying glass
+manacles
+map case
+marionette
+mask
+matchbox
+mattress
+meat hook
+mechanical bird
+medal
+mess tin
+message in a bottle
+metronome
+microscope
+mirror
+monocle
+mortar and pestle
+mousetrap
+music box
+music sheet
+muzzle
+necklace
+nutcracker
+oar
+ocarina
+offering bowl
+oil lamp
+orrery
+padlock
+palanquin
+paperweight
+parasol
+piano
+pickaxe
+piggy bank
+pilgrim's badge
+pillow
+pincushion
+pitchfork
+playing cards
+plumb bob
+pocket knife
+pocket watch
+poker
+porcelain doll
+prayer beads
+prayer wheel
+pruning shears
+punch bowl
+puppet
+quill
+quiver
+rabbit's foot
+rake
+razor
+reliquary
+ring of keys
+rocking horse
+rolling pin
+rosary
+rosette
+saddle
+saddlebag
+samovar
+satchel
+scabbard
+scalpel
+scarf
+scepter
+scissors
+scrapbook
+scroll case
+scythe
+sea chest
+seal ring
+seed packet
+sextant
+shield
+ship in a bottle
+ship's bell
+ship's wheel
+shoehorn
+shovel
+sickle
+sieve
+signet ring
+singing bowl
+skeleton key
+skis
+sledge
+sledgehammer
+sleigh bell
+slide rule
+sling
+snowshoes
+snuffbox
+specimen jar
+spectacles
+spindle
+spinning top
+spinning wheel
+spirit level
+spoon
+spur
+spyglass
+statue
+stilts
+stirrup
+stove
+strongbox
+sundial
+sword
+sword cane
+tambourine
+tankard
+tape measure
+tea strainer
+teapot
+tent
+thermometer
+thimble
+throne
+tiara
+tin soldier
+tinderbox
+toboggan
+tongs
+tool belt
+toolbox
+torch
+trap
+triangle
+tripod
+trophy
+trowel
+trumpet
+tuning fork
+umbrella
+urn
+vase
+ventriloquist's dummy
+violin
+walking stick
+wallet
+war banner
+washboard
+water clock
+watering can
+wax seal
+wedding ring
+wheelbarrow
+whetstone
+whistle
+wig
+wind chime
+wind-up mouse
+wineskin
+wooden leg
+worry stones
+wreath
+yo-yo

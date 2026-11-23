@@ -1,0 +1,4 @@
+# about: symbolic draw: tarot, I Ching, runes
+tarot: {tarot}; i ching: {iching}
+tarot: {tarot}; rune: {rune}
+rune: {rune}; i ching: {iching}

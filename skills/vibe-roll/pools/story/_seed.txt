@@ -1,0 +1,3 @@
+# about: story seed
+situation: {situation}; dilemma: {dilemma}; told as: {form}; structure: {structure}
+hero: {archetype}; wants: {motive}; flaw: {flaw}; turn: {turn}; told as: {form}

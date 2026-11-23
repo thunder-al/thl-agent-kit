@@ -1,0 +1,61 @@
+# about: the core action players must do
+carry
+deposit
+dunk
+relay
+interrupt
+match
+shoot in order
+hold
+split up
+swap rooms
+call out
+memorize
+mimic
+balance
+align
+rotate
+light
+extinguish
+fill
+drain
+stack
+sort
+count
+listen
+trace
+follow
+escort
+protect
+steal
+return
+hide
+seek
+chase
+outlast
+sacrifice
+trade
+vote
+bid
+bluff
+guess
+spell
+sing
+dance
+pose
+draw
+connect
+cut
+tie
+unlock
+assemble
+disassemble
+feed
+wake
+lull
+reflect
+redirect
+catch
+throw
+juggle
+synchronize

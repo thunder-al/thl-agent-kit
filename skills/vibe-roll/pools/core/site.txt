@@ -1,0 +1,288 @@
+# about: built places, buildings and rooms
+abandoned hospital
+abbey
+airport
+all-night diner
+alley
+almshouse
+anatomy theater
+antique shop
+apiary
+apothecary shop
+aquarium
+aqueduct
+arcade
+archive
+ashram
+attic
+auction house
+auditorium
+aviary
+backstage
+bakery
+balcony
+ballroom
+bandstand
+barber shop
+barn
+basement
+bathhouse
+belfry
+bell foundry
+boarding school
+boathouse
+boiler room
+bookshop
+border post
+botanical garden
+bothy
+boulevard
+bowling alley
+boxing gym
+brewery
+bridge
+bunker
+burned-out mill
+bus depot
+butcher's shop
+cabin
+cabinet of curiosities
+cable car station
+cafe
+call center
+campground
+canal basin
+caravanserai
+casino
+castle
+catacombs
+cathedral
+cellar
+cemetery
+chapel
+checkpoint
+cinema
+circus tent
+classroom
+clock tower
+cloister
+coaching inn
+coastal watchtower
+cockpit
+columbarium
+consulate
+control room
+convent
+corridor
+cottage
+courthouse
+courtroom
+courtyard
+covered market
+crawlspace
+crypt
+customs house
+dam
+demolished cinema
+department store
+depot
+dining car
+dock
+dovecote
+drained lido
+drive-in theater
+dry dock
+dungeon
+elevator
+embassy
+factory
+ferry lounge
+ferry terminal
+field hospital
+fire escape
+fire lookout tower
+fish market
+fishpond
+flea market
+flooded basement
+folly
+food court
+fort
+fortress
+fountain
+funfair
+funicular
+gambling den
+garage
+gasholder
+ghost train
+glassworks
+grain silo
+granary
+greenhouse
+greenhouse ruin
+gym
+hall of mirrors
+harbor
+hatchery
+hayloft
+hedge maze
+herbarium
+hermitage
+hospital
+hotel
+hut
+ice house
+ice rink
+inn
+jail
+junk shop
+junkyard
+kennel
+laboratory
+landfill
+launderette
+left luggage room
+library
+lifeboat station
+lift shaft
+lighthouse
+lightship
+lime kiln
+listening station
+lobby
+lock gate
+lock-keeper's cottage
+loft
+lost property office
+manor
+mansion
+map room
+marina
+mausoleum
+mill
+mine
+missile silo
+monastery
+monument
+morgue
+mosque
+motel
+motorway services
+mountain hut
+multi-storey car park
+museum
+music hall
+night bus
+night market
+nightclub
+noodle bar
+oast house
+observatory
+open-pit mine
+open-plan office
+opera house
+orangery
+orchard
+organ loft
+orphanage
+ossuary
+palace
+panic room
+paper mill
+pavilion
+pawnshop
+petrol station
+pier
+pillbox
+planetarium
+playground
+porch
+potting shed
+priest hole
+printing house
+prison
+pub
+public laundry
+pumping station
+puppet theater
+quarantine station
+quarry
+racetrack
+radio mast
+ranch
+reading room
+refectory
+refinery
+restaurant
+roller rink
+rooftop
+rooftop garden
+root cellar
+rope bridge
+rope walk
+runway
+salon
+salt warehouse
+sanctuary
+scriptorium
+secret passage
+seminary
+server room
+service corridor
+sewer
+shell grotto
+shipyard
+shrine
+signal box
+signal tower
+ski lift
+slaughterhouse
+sleeper train
+smokehouse
+sorting office
+speakeasy
+stable
+stadium
+staircase
+stairwell
+stock exchange floor
+subway
+supermarket
+swing bridge
+tannery
+tattoo parlor
+tavern
+tea room
+telephone exchange
+temple
+terrace
+theater
+tithe barn
+toll house
+tomb
+tower
+town square
+toy shop
+train yard
+truck stop
+tunnel
+underpass
+vault
+velodrome
+vestry
+viaduct
+vineyard
+waiting room
+walled garden
+warehouse
+water tower
+watermill
+wax museum
+weather station
+wharf
+windmill
+wine cellar
+workhouse
+workshop
+zoo

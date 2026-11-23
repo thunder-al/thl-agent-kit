@@ -1,0 +1,32 @@
+# Words that must never appear in a shipped pool: slurs, crude anatomy, bodily waste, sexual terms, hard drugs.
+# Stored as the first 16 hex digits of sha256(lowercase word), so the words themselves are not in the repo.
+# Checked word by word by tests/vibe-roll.test.ts. To add a word, append its hash and a short label:
+#   node -e "console.log(require('node:crypto').createHash('sha256').update('word').digest('hex').slice(0, 16))"
+737dd1bca21d67a7  # anatomy
+8a6e40cfcd99060e  # vomit, slang
+39c7ad800c579210  # hard drug
+d31f9b0cc1fd2416  # contraceptive
+2189c0ed714f0c54  # mild expletive
+566f532d486c9477  # the c-word
+ad505b0be8a49b89  # the d-word, anatomy slang
+adedda9c9542b03e  # bodily waste
+8f5083e3e5c7dc89  # homophobic f-slur
+47b673e08117aac3  # bodily waste
+6ac3c336e4094835  # the f-word
+ee6f01a92dd8063b  # hard drug
+6c4e44004698c129  # sexual underwear
+120f6e5b4ea32f65  # racial n-word
+f6952d6eef555ddd  # anatomy
+7bc671151cbfaee7  # urine, slang
+12e90b8e74f20fc0  # bodily waste
+158869a97379229b  # ableist r-slur
+2c32c156cf1a3222  # bodily fluid
+85fc17f7069acd39  # the s-word
+e388b89852d4dbb0  # the s-word, variant
+c2c3b68b48832afd  # sexual slur
+01b3c1269215e1a0  # porn, slang
+dfb0ce07edf923f1  # anatomy
+095080134d6cf49a  # bodily waste
+8353bea1729f1e9c  # bodily waste
+0508a634445d4016  # anatomy
+9ae315a94e428a7e  # sexual slur

@@ -1,0 +1,2 @@
+# about: a full set piece: space, mechanic, team, stakes
+arena: {arena}; verb: {puzzle-verb}; socket: {socket}; teams: {team-split}; pressure: {pressure}; fail: {fail-state}; reward: {reward}

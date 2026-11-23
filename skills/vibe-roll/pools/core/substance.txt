@@ -1,0 +1,204 @@
+# about: loose or flowing stuff: liquids, powders, gases, residues
+acetone
+acid
+alkali
+alum
+ambergris
+ammonia
+antifreeze
+arsenic
+asbestos
+ash
+asphalt
+attar of roses
+balm
+battery acid
+benzene
+bird lime
+bitumen
+black ice
+bleach
+blood
+bone ash
+bone meal
+borax
+brimstone
+brine
+caffeine
+candle smoke
+caustic
+cement
+chalk dust
+char
+charcoal
+chlorine
+cinders
+coal
+coal dust
+cod liver oil
+coke
+compost
+confetti
+creosote
+cyanide
+debris
+detergent
+dew
+diesel
+dirt
+dry ice
+dust
+elixir
+embers
+emery
+fallout
+fertilizer
+fire foam
+fish oil
+flour dust
+fly ash
+formaldehyde
+frankincense
+frost
+fumes
+gasoline
+gelatin
+gesso
+glitter
+goo
+grape must
+gravel
+grease
+grit
+grout
+guano
+gum arabic
+gunpowder
+gypsum
+henna
+herbicide
+hoarfrost
+honeydew
+hot wax
+incense
+ink
+ink wash
+insecticide
+iron oxide
+isinglass
+jet fuel
+kerosene
+lacquer
+lampblack
+lanolin
+lava
+lichen dust
+limescale
+linseed oil
+lint
+liquid nitrogen
+litmus
+lubricant
+lye
+magma
+manure
+meltwater
+menthol
+methane
+mildew bloom
+mist of perfume
+mold
+molten glass
+molten lead
+mortar
+motor oil
+mud
+musk
+myrrh
+napalm
+naphtha
+nectar
+nicotine
+oak gall ink
+oil
+oil paint
+ooze
+ore
+ozone
+paste
+peat
+peroxide
+pesticide
+petroleum
+pickling brine
+pigment
+pitch
+pollen
+potash
+printer toner
+printer's ink
+propane
+puddle
+pumice dust
+quicklime
+quicksand
+quicksilver
+rainwater
+red mud
+resin
+river silt
+road salt
+rose water
+rosin
+rubble
+rust
+rust flakes
+saliva
+salt
+saltpeter
+sand
+sawdust
+sea foam
+seawater
+sewage
+shellac
+silica
+silt
+slag
+slip
+sludge
+slurry
+slush
+smoke
+smoldering peat
+snowmelt
+snuff
+soda
+soot
+spilled milk
+spores
+squid ink
+starch
+steam
+sulfur
+sweat
+tar
+tartar
+tear gas
+tears
+tinder
+toxin
+tree sap
+turpentine
+venom
+verdigris crust
+vitriol
+volcanic ash
+wastewater
+wet clay
+wet plaster
+wet sand
+whale oil
+whitewash
+wood shavings
+yeast

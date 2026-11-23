@@ -1,0 +1,100 @@
+# about: specific named colors and pigments
+verdigris
+oxblood
+saffron
+bone white
+slate blue
+rust orange
+moss green
+ochre
+indigo
+cinnabar
+pewter
+ultramarine
+burnt umber
+celadon
+mustard yellow
+plum
+teal
+charcoal
+coral
+sepia
+cobalt
+vermilion
+olive drab
+lavender grey
+mahogany
+chartreuse
+ivory
+blood red
+sea glass green
+tobacco brown
+heather purple
+ash grey
+copper
+amber
+midnight navy
+salmon pink
+lichen yellow-green
+nicotine yellow
+wine dark
+frost white
+peacock blue
+terracotta
+mint
+graphite
+honey gold
+bruise purple
+candlelight yellow
+rose madder
+storm grey
+pine green
+tar black
+iridescent oil-slick
+faded denim
+sunburn red
+pearl
+prussian blue
+tyrian purple
+lead white
+gamboge
+scheele's green
+smalt
+orpiment yellow
+mummy brown
+lamp black
+woad blue
+madder red
+carmine
+egyptian blue
+indian yellow
+van dyke brown
+bistre
+caput mortuum
+payne's grey
+naples yellow
+cerulean
+aubergine
+mauve
+amethyst
+orchid pink
+wisteria lilac
+ink purple
+damson
+raw sienna
+walnut brown
+chestnut
+cocoa
+khaki
+taupe
+putty
+mushroom grey
+dove grey
+gunmetal
+nightshade violet
+petrol blue
+hi-vis yellow
+traffic cone orange
+swimming pool turquoise
+highlighter pink
+tv-static grey

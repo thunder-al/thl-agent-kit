@@ -1,0 +1,3 @@
+# about: a mechanic for a boss fight, raid or puzzle room
+verb: {puzzle-verb}; socket: {socket}; telegraph: {telegraph}; pressure: {pressure}
+verb: {puzzle-verb}; role: {role}; telegraph: {telegraph}; fail: {fail-state}

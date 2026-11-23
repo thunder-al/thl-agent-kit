@@ -1,0 +1,117 @@
+# about: a character type with a built-in story
+disgraced cartographer
+retired executioner
+child prodigy
+reluctant heir
+traveling tinker
+widowed innkeeper
+defrocked priest
+smuggler with a conscience
+aging champion
+court jester
+hedge witch
+deserter
+forger
+bounty hunter
+pilgrim
+debt collector
+gravedigger
+midwife
+exiled noble
+ferryman
+apothecary
+spy who wants out
+failed poet
+hermit
+temple guardian
+fence for stolen goods
+lamplighter
+mercenary captain
+runaway bride
+storyteller
+tax collector
+beggar king
+alchemist's apprentice
+pit fighter
+sea captain
+bookbinder
+tutor
+herbalist
+rat catcher
+clockmaker
+mourner for hire
+cult survivor
+librarian
+shepherd
+cook
+blacksmith
+wandering monk
+bard
+disgraced court physician
+retired assassin turned gardener
+heir who was swapped at birth
+translator who knows too much
+ship cook who outlived three captains
+last member of a dissolved order
+charming fraud
+reformed bandit
+bodyguard who failed once
+widowed general
+runaway nun
+ex-convict locksmith
+scholar banned from the library
+oracle who stopped seeing
+noble pretending to be poor
+poor relative of the rich family
+traveling judge
+professional rival
+twin who lives in the other twin's shadow
+whistleblower
+veteran who never talks about the war
+child who rules a town
+old champion's squire
+hostage raised by the enemy
+quartermaster who controls everything
+smuggler priest
+dutiful executioner
+informant
+jilted fiance
+lovesick guard
+fallen saint
+fortune hunter
+lighthouse hermit
+apprentice who surpassed the master
+master who fears the apprentice
+widow running a criminal empire
+retired hero who got old
+reluctant prophet
+disinherited eldest child
+spy who fell in love with the target
+merchant who sells to both sides
+mapmaker who has never traveled
+healer with a dark past
+pilgrim who lost their faith on the road
+thief with a code
+cynical idealist
+impostor heir
+beloved local villain
+sole survivor
+stowaway
+kingmaker
+hangman's daughter
+false messiah
+wandering duelist
+collector of curses
+debt slave buying their freedom
+grieving parent with a plan
+exiled poet
+forgotten twin
+patient schemer
+puppet ruler
+mercenary with a conscience
+prodigal who came back rich
+monster hunter who pities monsters
+witness under protection
+oldest servant in the house
+pirate queen in retirement
+healer who cannot heal themselves

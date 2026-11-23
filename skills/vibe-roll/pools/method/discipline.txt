@@ -1,0 +1,165 @@
+# about: a specific field of knowledge or craft, used as a lens
+epidemiology
+liturgy
+beekeeping
+forensic accounting
+cartography
+mycology
+naval architecture
+theatre lighting
+game theory
+etymology
+falconry
+glassblowing
+archival science
+plate tectonics
+perfumery
+cryptography
+urban planning
+animal behaviour
+textile weaving
+choreography
+hydrology
+heraldry
+diplomacy
+brewing
+sports coaching
+insurance underwriting
+typography
+bookbinding
+oral history
+astronomy
+toxicology
+locksmithing
+monastic rule
+supply chain logistics
+landscape gardening
+military logistics
+puppetry
+folklore studies
+seismology
+watchmaking
+dentistry
+music theory
+ethnobotany
+espionage tradecraft
+stage magic
+library science
+acoustics
+aerodynamics
+maritime archaeology
+arboriculture
+bell ringing
+bioacoustics
+blacksmithing
+bonsai
+bridge engineering
+calligraphy
+canal engineering
+cheesemaking
+chess endgame theory
+circus rigging
+climatology
+comedy writing
+painting conservation
+crowd management
+dendrochronology
+dog training
+dramaturgy
+embalming
+entomology
+ethnomusicology
+fire science
+forensic linguistics
+forensic entomology
+gemology
+genealogy
+glaciology
+hostage negotiation
+hydraulics
+immunology
+interior design
+knot tying
+lighthouse engineering
+marine salvage
+meteorology
+military camouflage
+mining engineering
+mountaineering
+museum curation
+celestial navigation
+neuroscience
+numismatics
+ornithology
+origami
+paleontology
+papermaking
+parasitology
+pharmacology
+photography
+piano tuning
+poker strategy
+pottery
+prison design
+prosthetics
+public health
+queueing theory
+radio astronomy
+restoration carpentry
+rhetoric
+risk analysis
+roller coaster design
+sailing
+sand sculpture
+search and rescue
+semiotics
+set design
+sign language
+sleep science
+soil science
+sound design
+caving
+sports refereeing
+stained glass
+stonemasonry
+surgery
+tailoring
+tattooing
+taxidermy
+tea ceremony
+textile conservation
+theme park design
+tide prediction
+traffic engineering
+translation
+tree surgery
+trial law
+flag design
+viticulture
+volcanology
+wayfinding design
+wine tasting
+zookeeping
+hospice care
+ballet
+fencing
+cartoon animation
+film editing
+radio drama
+cryptanalysis
+air traffic control
+emergency medicine
+wedding planning
+ice sculpture
+fireworks design
+organ building
+clock restoration
+fly fishing
+disaster recovery
+court reporting
+auctioneering
+fermentation science
+urban foraging
+tunneling
+card magic
+escape room design

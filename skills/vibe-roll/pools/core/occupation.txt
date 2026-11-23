@@ -1,0 +1,233 @@
+# about: modern jobs, each with a distinct daily routine
+actuary
+acupuncturist
+air traffic controller
+airline pilot
+anesthesiologist
+animator
+arborist
+archaeologist
+architect
+archivist
+astronaut
+astronomer
+auctioneer
+bailiff
+barista
+barrister
+beekeeper
+bicycle courier
+bomb disposal technician
+bookbinder
+bookseller
+border guard
+bus driver
+butcher
+cab driver
+cafe owner
+camera operator
+cartographer
+cheesemaker
+chef
+chemist
+chimney sweep
+choreographer
+circus acrobat
+clown
+coastguard
+coroner
+court interpreter
+court stenographer
+crane operator
+crime scene cleaner
+crossword compiler
+customs inspector
+dairy farmer
+dance teacher
+debt collector
+deep-sea welder
+dental hygienist
+dentist
+dermatologist
+diamond cutter
+diplomat
+divorce lawyer
+dog groomer
+dog walker
+door-to-door salesperson
+driving instructor
+drone pilot
+elevator mechanic
+embalmer
+emergency dispatcher
+estate agent
+ethical hacker
+fact-checker
+farrier
+fashion designer
+ferry captain
+film projectionist
+firefighter
+fisherman
+fishmonger
+florist
+foley artist
+food stylist
+forensic accountant
+forensic entomologist
+forest ranger
+funeral director
+gamekeeper
+geologist
+ghostwriter
+glassblower
+golf ball diver
+gravedigger
+greenkeeper
+hairdresser
+harbor pilot
+hospice nurse
+hotel concierge
+house painter
+ice road trucker
+illustrator
+insurance investigator
+interpreter
+janitor
+jeweler
+jockey
+journalist
+judge
+karaoke host
+kindergarten teacher
+landscape gardener
+lexicographer
+librarian
+lifeguard
+lighthouse keeper
+lighting technician
+line cook
+locksmith
+long-haul trucker
+luthier
+magician
+makeup artist
+marine biologist
+massage therapist
+medical examiner
+meteorologist
+midwife
+miner
+model maker
+mortgage broker
+museum guard
+museum restorer
+music teacher
+night porter
+night-shift security guard
+nurse
+oceanographer
+oil rig worker
+optician
+organ tuner
+orthodontist
+paramedic
+park ranger
+parking attendant
+patent examiner
+pawnbroker
+perfumer
+personal shopper
+pharmacist
+photographer
+piano tuner
+pilot boat captain
+pizza delivery driver
+plasterer
+playwright
+plumber
+podcast host
+police detective
+politician's speechwriter
+postal worker
+potter
+private investigator
+process server
+professional mourner
+proofreader
+prosthetic maker
+psychiatrist
+puppeteer
+radio host
+rail signal operator
+real estate photographer
+receptionist
+repo agent
+roofer
+sailmaker
+school bus driver
+scuba instructor
+sculptor
+search-and-rescue volunteer
+seismologist
+set dresser
+sewer inspector
+shepherd
+ship's cook
+shoe repairer
+sign language interpreter
+sign painter
+ski instructor
+sleep technician
+snake handler
+social worker
+sommelier
+sound engineer
+speech therapist
+stage manager
+stand-up comedian
+stockbroker
+storm chaser
+street food vendor
+street sweeper
+stunt performer
+submarine officer
+subtitler
+substitute teacher
+surgeon
+surveyor
+tailor
+tattoo artist
+taxidermist
+tax inspector
+tea taster
+telemarketer
+test pilot
+theme park mascot
+tightrope walker
+tour guide
+toxicologist
+traffic warden
+train conductor
+translator
+tree surgeon
+tugboat captain
+tutor
+undertaker
+upholsterer
+usher
+veterinarian
+video game tester
+violin maker
+voice actor
+waiter
+watchmaker
+weather forecaster
+wedding planner
+welder
+wildlife photographer
+wildlife rehabilitator
+window cleaner
+wind turbine technician
+wine merchant
+zookeeper

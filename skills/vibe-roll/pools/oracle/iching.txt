@@ -1,0 +1,65 @@
+# about: the 64 I Ching hexagrams: King Wen number, pinyin name and a short gloss in our own words
+1 Qian: heaven, strong creative drive
+2 Kun: earth, yielding and receiving
+3 Zhun: sprouting through hardship
+4 Meng: the untaught young
+5 Xu: waiting for the right moment
+6 Song: a dispute
+7 Shi: an army, organized force
+8 Bi: alliance, holding together
+9 Xiao Chu: a small restraint
+10 Lu: stepping carefully
+11 Tai: flow and harmony
+12 Pi: blockage, stagnation
+13 Tong Ren: fellowship among equals
+14 Da You: great wealth, held well
+15 Qian: modesty
+16 Yu: readiness and delight
+17 Sui: following
+18 Gu: fixing the decay others left
+19 Lin: drawing near
+20 Guan: looking, and being looked at
+21 Shi He: chewing through an obstacle
+22 Bi: adornment
+23 Bo: stripping away
+24 Fu: return, a turning point
+25 Wu Wang: without pretense, the unexpected
+26 Da Chu: great restraint, stored strength
+27 Yi: the jaws, nourishment
+28 Da Guo: too much, the beam that sags
+29 Kan: water, danger repeated
+30 Li: fire, clinging brightness
+31 Xian: mutual attraction
+32 Heng: lasting
+33 Dun: withdrawal
+34 Da Zhuang: great strength
+35 Jin: advancing into the light
+36 Ming Yi: the light hidden and wounded
+37 Jia Ren: the household
+38 Kui: estrangement, opposites
+39 Jian: limping, an obstacle ahead
+40 Xie: release, untangling
+41 Sun: decrease, giving something up
+42 Yi: increase, gain
+43 Guai: a resolute breakthrough
+44 Gou: an unexpected encounter
+45 Cui: gathering
+46 Sheng: rising step by step
+47 Kun: exhaustion, hemmed in
+48 Jing: the well
+49 Ge: shedding the old skin, revolution
+50 Ding: the cauldron
+51 Zhen: thunder, shock
+52 Gen: mountain, stillness
+53 Jian: gradual progress
+54 Gui Mei: the younger bride, a lesser position
+55 Feng: fullness at its peak
+56 Lu: the traveler
+57 Xun: wind, gentle penetration
+58 Dui: lake, shared joy
+59 Huan: dispersal, dissolving
+60 Jie: limits, measured joints
+61 Zhong Fu: sincerity at the center
+62 Xiao Guo: small excess, attention to detail
+63 Ji Ji: already across the river
+64 Wei Ji: not yet across the river

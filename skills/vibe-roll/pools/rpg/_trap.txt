@@ -1,0 +1,2 @@
+# about: trap
+trigger: {trap-trigger}; effect: {trap-effect}; tell: {core:_sense}

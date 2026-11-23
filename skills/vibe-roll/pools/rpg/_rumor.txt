@@ -1,0 +1,2 @@
+# about: a rumor and who spreads it
+rumor: {rumor}; heard from: {trade}

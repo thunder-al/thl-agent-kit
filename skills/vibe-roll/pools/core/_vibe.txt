@@ -1,0 +1,4 @@
+# about: sensory and emotional mood
+{_sense}, {_sense}, {story:emotion}
+{light}; {sound}; {story:emotion}
+{smell}; {texture}; {story:emotion}

@@ -1,0 +1,4 @@
+# about: two raw anchors, minimal steering
+{_concrete} + {core:* & method:* & story:* & oracle:*}
+{_concrete} + {_concrete}
+{_concrete} + {_sense}

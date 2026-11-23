@@ -1,0 +1,2 @@
+# about: idea generation: operator + lens + limit
+transform: {transform}; lens: {core:occupation & discipline}; constraint: {constraint}

@@ -1,0 +1,12 @@
+# about: union of concrete-noun pools (one category, then one item)
+{core:animal}
+{core:plant}
+{core:object}
+{core:gadget}
+{core:site}
+{core:food}
+{core:substance}
+{core:material}
+{core:modern-material}
+{core:place}
+{core:phenomenon}

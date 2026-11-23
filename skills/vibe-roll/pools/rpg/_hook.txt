@@ -1,0 +1,3 @@
+# about: adventure hook with a twist
+hook: {hook}; twist: {complication}
+hook: {hook}; when: {occasion}; twist: {complication}

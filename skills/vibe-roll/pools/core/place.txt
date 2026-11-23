@@ -1,0 +1,253 @@
+# about: landforms, waters, terrain and kinds of settlement
+abandoned mine country
+abyss
+abyssal plain
+alluvial fan
+alp
+aquifer
+archipelago
+arete
+arroyo
+ash plain
+ash plain under a dormant volcano
+atoll
+backwater
+badlands
+bamboo forest
+barrier island
+basalt sea cliffs
+bayou
+birch wood
+black sand beach
+blowhole
+bluff
+bog
+bog island
+border town
+borderland of burned villages
+boulder field
+braided river
+brine pool
+brook
+butte
+caldera
+canal
+canyon
+canyon maze
+canyon rim
+cape
+caravan stop
+cataract
+cathedral city
+cavern
+cedar highlands
+cenote
+chalk downs
+chaparral
+chasm
+cinder cone
+cirque
+clearing
+cloud forest
+col
+cold seep
+company town
+confluence
+continental shelf
+coppice
+coral reef
+cork forest
+cove
+crater lake
+creek
+crevasse field
+crossroads
+defile
+delta
+desert road
+drowned forest
+drowned valley
+drumlin
+dune field
+erg
+escarpment
+esker
+estuary
+farmland
+fault scarp
+fen
+fishing village
+fjord
+flat-topped mesa
+floating village
+floodplain
+ford
+forest edge
+frontier
+frozen lake
+fumarole field
+fungal caverns
+garrison town
+geyser basin
+ghost town
+glacier
+glacier lake
+glacier tongue
+glade
+grotto
+gulch
+gulf
+gully
+hamlet
+haunted battlefield
+headland
+heathland
+high pass
+hill station
+holloway
+hoodoo
+horst
+hot spring
+hydrothermal vent
+ice cave
+ice shelf
+iceberg
+icefall
+inlet
+inselberg
+island chain
+island colony
+isthmus
+jungle
+karst caves
+karst tower
+kelp forest
+kettle lake
+knoll
+lagoon
+lagoon village
+lava field
+lava tube
+lighthouse island
+limestone pavement
+loch
+machair
+mangrove swamp
+maquis
+market town
+marsh
+marsh with stilt villages
+meadow
+meadow of wildflowers
+millpond
+mining camp
+mire
+moor
+moorland with standing stones
+moraine
+mountain lake
+mountain pass
+mountain saddle
+mud volcano
+mudflat
+muskeg
+ness
+nunatak
+oasis
+oasis town
+ocean trench
+oilfield
+old-growth forest
+olive grove
+orchard valley
+outcrop
+oxbow lake
+pack ice
+pampas
+pasture
+peat bog
+peat hag
+peninsula
+permafrost
+petrified forest
+pine barrens
+plateau
+playa
+polder
+polynya
+pond
+port town
+prairie
+precipice
+quagmire
+quaking bog
+quarry lake
+rapids
+ravine
+red rock canyon
+reef
+reservoir
+rice terraces
+rift valley
+river crossing
+river delta town
+river gorge
+river island
+river mouth
+ruined city
+salt flats
+salt marsh
+salt mine country
+salt pan
+sandbar
+savanna
+scree slope
+sea arch
+sea cave
+sea cliff
+sea stack
+seamount
+shingle beach
+shoal
+sinkhole
+skerry
+sky-high plateau
+slot canyon
+snowfield
+spa town
+spit
+steppe
+stilt village
+stony desert
+strait
+summit ridge
+sunken city
+sunken forest
+sunken lane
+sunken village
+swamp
+taiga
+tar pit
+tepui
+terraced vineyards
+thermal pools
+thornwood
+tidal bore
+tidal flat
+tide pools
+tombolo
+tor
+tributary
+tundra
+underground river
+veld
+vineyard slope
+volcanic island
+volcano
+wadi
+walled city
+wasteland
+water meadow
+waterfall
+whirlpool
+whitewater

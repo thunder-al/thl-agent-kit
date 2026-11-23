@@ -1,0 +1,228 @@
+# about: pre-industrial trades and callings
+alewife
+alchemist
+apothecary
+armorer
+arrowsmith
+assayer
+astrologer
+bargeman
+barber-surgeon
+basket weaver
+beadle
+bell founder
+bladesmith
+boatwright
+bonesetter
+bookbinder
+bowyer
+brewer
+brickmaker
+broom maker
+butcher
+button maker
+candlemaker
+carder
+carpenter
+carter
+cartographer
+cartwright
+chainmaker
+chair mender
+charcoal burner
+cheesemonger
+chimney sweep
+clock winder
+clockmaker
+clothier
+cobbler
+collier
+comb maker
+conjurer
+cooper
+coppersmith
+costermonger
+courier
+court painter
+cutler
+dairymaid
+dancing master
+distiller
+dog breeder
+dowser
+drover
+dyer
+eel catcher
+embroiderer
+engraver
+executioner
+falconer
+fan maker
+farrier
+ferryman
+fishwife
+fletcher
+fortune teller
+fowler
+fuller
+furrier
+gardener
+gem cutter
+gilder
+glassblower
+glazier
+glover
+goatherd
+goldsmith
+goose girl
+gravedigger
+grocer
+haberdasher
+harness maker
+harpist
+hatter
+hayward
+herald
+herbalist
+honey gatherer
+horse trader
+hostler
+huntsman
+ice cutter
+icemonger
+illuminator
+innkeeper
+ironmonger
+jailer
+jester
+jeweler
+kite maker
+knacker
+lacemaker
+lamplighter
+leech gatherer
+lens grinder
+letter writer
+lighthouse keeper
+lime burner
+limner
+linkboy
+locksmith
+lute maker
+map seller
+mason
+matchmaker
+mead maker
+mercer
+messenger
+midwife
+miller
+miner
+minstrel
+mole catcher
+moneylender
+mountebank
+mudlark
+mule driver
+nail maker
+net maker
+notary
+oarmaker
+organ builder
+oyster seller
+pardoner
+parchment maker
+pastry cook
+pawnbroker
+pearl diver
+peddler
+perfumer
+pewterer
+physician
+pigeon keeper
+pilgrim guide
+pinmaker
+plasterer
+playwright
+plowman
+portrait painter
+potter
+poulterer
+printer
+prompter
+puppeteer
+quarryman
+quill cutter
+rag-and-bone man
+rat catcher
+reeve
+relic seller
+river pilot
+rope dancer
+rope maker
+saddler
+sailmaker
+salt boiler
+saltpeter man
+scissor grinder
+scribe
+sculptor
+seamstress
+sexton
+shepherd
+shipwright
+shrine keeper
+sign painter
+silversmith
+slater
+snake charmer
+soapmaker
+spectacle maker
+spice merchant
+spinner
+stablehand
+stilt walker
+stonecutter
+storyteller
+sundial maker
+surveyor
+swineherd
+swordsmith
+tailor
+tanner
+tapster
+tattooist
+tax collector
+tea merchant
+teamster
+thatcher
+tightrope walker
+tinker
+tinsmith
+toll keeper
+tooth puller
+town crier
+toymaker
+translator
+trapper
+truffle hunter
+undertaker
+vellum maker
+village schoolmaster
+vintner
+wainwright
+washerwoman
+watchman
+water carrier
+wax modeler
+weaver
+wet nurse
+wheelwright
+wigmaker
+wine taster
+wolf hunter
+wood carver
+woodcutter
+wool comber
+wool merchant
+wreck salvager

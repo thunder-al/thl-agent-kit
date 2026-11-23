@@ -1,0 +1,3 @@
+# about: tavern or inn
+name: The {core:color} {core:animal}; known for: {tavern-feature}; keeper: {trade}, who {secret}
+name: The {core:animal} and {core:object}; known for: {tavern-feature}; keeper: {trade}, who {secret}

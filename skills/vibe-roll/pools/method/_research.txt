@@ -1,0 +1,2 @@
+# about: pick an ANGLE, never content
+lens: {discipline}; scale: {scale}; question: {question}

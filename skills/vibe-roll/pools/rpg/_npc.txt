@@ -1,0 +1,3 @@
+# about: NPC seed
+role: {trade}; wants: {story:motive}; secret: {secret}; quirk: {npc-quirk}; voice: {voice}
+role: {story:archetype}; wants: {story:motive}; secret: {secret}; quirk: {npc-quirk}; voice: {voice}

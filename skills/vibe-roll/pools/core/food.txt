@@ -1,0 +1,292 @@
+# about: dishes, ingredients and drinks from many cuisines and eras
+absinthe
+adobo
+ale
+apple
+arepa
+aspic
+avocado
+ayran
+bacon
+bagel
+baguette
+baklava
+bannock
+barley
+barley water
+bean
+bento
+birthday cake
+biryani
+black bread
+black pudding
+blancmange
+blini
+blood orange
+boiled sweets
+borscht
+bottarga
+bouillabaisse
+brandy
+breadfruit
+brisket
+broth
+buttermilk
+cabbage
+candy floss
+cannoli
+caramel
+cassava
+casserole
+cassoulet
+caviar
+century egg
+ceviche
+champagne
+cheese bread
+cheesecake
+chili
+chipotle
+chocolate
+chorizo
+chowder
+churros
+chutney
+cider
+cocoa
+coconut
+coleslaw
+congee
+cornbread
+couscous
+crab apple
+crayfish
+creme brulee
+croissant
+curry
+custard
+dal
+damson jam
+dim sum
+dosa
+dough
+duckling
+dulce de leche
+dumplings
+durian
+eel pie
+eggnog
+eggplant
+elderflower cordial
+empanada
+escargot
+espresso
+falafel
+feijoada
+fermented herring
+fiddleheads
+focaccia
+fortune cookie
+frogs' legs
+frosting
+frumenty
+fry bread
+fudge
+garum
+gelato
+ghee
+gin
+gingerbread
+gingerbread house
+gnocchi
+gooseberry fool
+granola
+gravlax
+gravy
+grits
+grouse
+gruel
+guacamole
+gum
+gumbo
+haggis
+halva
+hardtack
+harissa
+hash
+head cheese
+herring
+horchata
+hot cross bun
+hot pot
+hummus
+injera
+jackfruit
+jambalaya
+jellied eels
+jerky
+kaya toast
+kefir
+ketchup
+khachapuri
+kimchi
+kombucha
+kvass
+laksa
+lard
+lardo
+lasagna
+leftovers
+lemon
+lemonade
+liquorice
+lollipop
+lutefisk
+lychee
+mackerel
+madeleine
+mangosteen
+maple taffy
+marchpane
+margarine
+marmalade
+marshmallow
+marzipan pig
+mayonnaise
+mead
+meatball
+meatloaf
+medlar
+melon
+meringue
+milkshake
+miso
+mochi
+molasses
+mole sauce
+mooncake
+mousse
+mozzarella
+mulled wine
+mussel
+mutton
+nasi goreng
+natto
+noodle
+oatmeal
+okra
+omelette
+onigiri
+open sandwich
+ouzo
+oyster stew
+palm wine
+pancake
+paneer
+panettone
+partridge
+pastry
+pate
+pea
+pear
+pelmeni
+pemmican
+pepperoni
+persimmon
+pesto
+pho
+pickle
+pickled egg
+pierogi
+pigeon pie
+pita
+plantain
+plov
+poi
+polenta
+pomegranate
+popsicle
+porridge
+port
+posset
+potted shrimp
+poutine
+pozole
+prawn
+pretzel
+prune
+pudding
+pulque
+pumpernickel
+quince
+radish
+raisin
+ramen
+ravioli
+rendang
+rhubarb
+rhubarb crumble
+ricotta
+risotto
+roast chestnuts
+rollmops
+rosehip syrup
+rum
+rye crispbread
+sake
+salami
+salsa
+salt cod
+salt pork
+samosa
+samphire
+sardine
+satay
+sauerkraut
+sausage
+sherry
+ship's biscuit
+sloe
+sloe gin
+small beer
+soba
+soju
+sorbet
+souffle
+sourdough loaf
+spaghetti
+sprinkles
+steamed bun
+stollen
+strawberry
+strudel
+stuffing
+sundae
+sushi
+syllabub
+tagine
+tahini
+tamale
+tapioca
+tempura
+tequila
+tiramisu
+toffee
+toffee apple
+tofu
+tomato
+tortilla
+treacle tart
+trifle
+truffle
+turkish delight
+udon
+umeboshi
+venison
+vodka
+waffle
+walnut
+wedding cake
+whiskey
+yogurt
+yolk

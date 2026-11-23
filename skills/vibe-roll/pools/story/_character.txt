@@ -1,0 +1,2 @@
+# about: character seed
+type: {archetype}; wants: {motive}; flaw: {flaw}; feels: {emotion}

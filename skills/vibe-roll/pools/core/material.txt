@@ -1,0 +1,135 @@
+# about: what a thing is made of: natural, mineral, metal and textile materials known before industry
+adobe
+alabaster
+amber resin
+antler
+baleen
+balsa
+bamboo
+basalt
+beeswax
+birch bark
+bloodstone
+bog oak
+bone
+bone china
+brass
+brocade
+bronze
+burlap
+calico
+canvas
+carnelian
+cast iron
+chainmail
+chalk
+chiffon
+clay
+cloisonne
+cob
+concrete
+copper wire
+coral
+cork
+cotton
+damascus steel
+damask
+driftwood
+dry stone
+earthenware
+ebony
+eggshell
+electrum
+enamel
+faience
+feathers
+felt
+flax
+fleece
+flint
+frosted glass
+fur
+garnet
+gauze
+gold leaf
+granite
+graphite
+hemp
+horn
+ice block
+iron filings
+ivory
+jade
+jasper
+jet
+lace
+lapis lazuli
+lead
+lead crystal
+leather
+limestone
+linen
+malachite
+marble
+meteoric iron
+mica
+milk glass
+mirror glass
+mother-of-pearl
+muslin
+obsidian
+oilcloth
+oilskin
+onyx
+opal
+paper
+papier-mache
+parchment
+pewter
+porcelain
+pumice
+quartz
+raffia
+rammed earth
+rattan
+rawhide
+red brick
+rice paper
+rope
+rubber
+sailcloth
+salt crystal
+sandstone
+sealskin
+shagreen
+silk
+sisal
+slate
+soapstone
+solder
+stained glass
+sterling silver
+stoneware
+straw
+suede
+taffeta
+tallow
+teak
+terrazzo
+thatch
+thread
+tin
+tortoiseshell
+travertine
+turquoise
+tweed
+vellum
+velvet
+walnut wood
+wattle and daub
+whalebone
+wicker
+wool
+wrought iron
+yew wood
+zinc
