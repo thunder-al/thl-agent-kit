@@ -78,7 +78,7 @@ tools/                   repo maintenance files, not shipped
 
 1. Create `skills/<name>/SKILL.md` per the [spec](https://agentskills.io/specification);
    `name` must match the folder name.
-2. Add an entry for it to `.claude-plugin/marketplace.json` (with `"skills": ["./"]`) and
+2. Add an entry for it to `.claude-plugin/marketplace.json` (with `"strict": false` and `"skills": ["./"]`) and
    `.cursor-plugin/marketplace.json`. `npx skills` and Codex pick it up without changes.
 3. Keep the description short. claude.ai documents a 200-character limit, though a 284-character
    description has uploaded fine.

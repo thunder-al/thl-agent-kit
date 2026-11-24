@@ -10,6 +10,7 @@
     {
       "name": "vibe-roll",
       "source": "./skills/vibe-roll",
+      "strict": false,
       "skills": ["./"],
       "description": "Rolls random creative anchors from curated word pools so ideas stop collapsing to the usual LLM defaults.",
       "category": "productivity",
