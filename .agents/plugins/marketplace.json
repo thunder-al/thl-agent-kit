@@ -1,0 +1,20 @@
+{
+  "name": "thl-agent-kit",
+  "interface": {
+    "displayName": "thl-agent-kit"
+  },
+  "plugins": [
+    {
+      "name": "thl-agent-kit",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

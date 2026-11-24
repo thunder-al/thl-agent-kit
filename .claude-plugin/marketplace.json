@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "thl-agent-kit",
+  "description": "Agent skills and tooling for Claude Code and other Agent Skills tools.",
+  "owner": {
+    "name": "ThunderAL",
+    "url": "https://github.com/thunder-al"
+  },
+  "plugins": [
+    {
+      "name": "vibe-roll",
+      "source": "./skills/vibe-roll",
+      "skills": ["./"],
+      "description": "Rolls random creative anchors from curated word pools so ideas stop collapsing to the usual LLM defaults.",
+      "category": "productivity",
+      "keywords": ["creativity", "brainstorm", "random", "oblique-strategies"],
+      "license": "MIT",
+      "homepage": "https://github.com/thunder-al/thl-agent-kit/tree/main/skills/vibe-roll",
+      "repository": "https://github.com/thunder-al/thl-agent-kit"
+    }
+  ]
+}

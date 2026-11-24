@@ -1,0 +1,20 @@
+{
+  "name": "thl-agent-kit",
+  "owner": {
+    "name": "ThunderAL"
+  },
+  "metadata": {
+    "description": "Agent skills and tooling for Cursor and other Agent Skills tools."
+  },
+  "plugins": [
+    {
+      "name": "vibe-roll",
+      "source": "./skills/vibe-roll",
+      "description": "Rolls random creative anchors from curated word pools so ideas stop collapsing to the usual LLM defaults.",
+      "keywords": ["creativity", "brainstorm", "random", "oblique-strategies"],
+      "license": "MIT",
+      "homepage": "https://github.com/thunder-al/thl-agent-kit/tree/main/skills/vibe-roll",
+      "repository": "https://github.com/thunder-al/thl-agent-kit"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "thl-agent-kit",
+  "description": "Agent skills and tooling: every skill in skills/ as one plugin.",
+  "author": {
+    "name": "ThunderAL",
+    "url": "https://github.com/thunder-al"
+  },
+  "homepage": "https://github.com/thunder-al/thl-agent-kit",
+  "repository": "https://github.com/thunder-al/thl-agent-kit",
+  "license": "MIT",
+  "keywords": ["skills", "agent-skills", "creativity"]
+}
