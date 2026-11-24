@@ -149,6 +149,15 @@ test('bad arguments fail instead of being ignored', () => {
   }
 })
 
+test('an unknown preset is reported as a preset, not as an internal pool name', () => {
+  for (const preset of ['@missing', '@rpg/missing']) {
+    const result = run([preset])
+
+    assert.equal(result.code, 1)
+    assert.match(result.err, new RegExp(`unknown preset ${preset} \\(see --list\\)`))
+  }
+})
+
 // Every runtime that runs this suite must produce the same output: that is the cross-runtime check.
 test('a seed reproduces the same output', () => {
   const dir = makePools({

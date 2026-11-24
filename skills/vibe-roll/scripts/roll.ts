@@ -476,7 +476,13 @@ function main() {
 
   if (template.startsWith('@')) {
     const parts = template.slice(1).split('/')
-    expandable = parts.length === 2 ? `{${parts[0]}:_${parts[1]}}` : `{core:_${parts[0]}}`
+    const key = parts.length === 2 ? `${parts[0]}:_${parts[1]}` : `core:_${parts[0]}`
+
+    if (!pools.has(key)) {
+      throw new Error(`unknown preset ${template} (see --list)`)
+    }
+
+    expandable = `{${key}}`
   }
 
   if (seed === undefined) {

@@ -1,2 +1,2 @@
 # about: faction seed
-faction: {faction}; wants: {story:motive}; torn by: {story:dilemma}; shaped by: {method:process}
+faction: {faction}; wants: {faction-goal}; torn by: {story:dilemma}; shaped by: {method:process}
